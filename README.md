@@ -1,6 +1,6 @@
 # hello-world
 r-e-p-o-s-i-t-o-r-y repository
-gosh damn
+gosh darn
 is
 appropriate in most
 situations
